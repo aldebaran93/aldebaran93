@@ -37,7 +37,7 @@
 ---
 
 ## 📫 How to Reach Me  
-📩 Email: tsafackleo@yahoo.com
+📩 Email: amindjouevrard@yahoo.fr
 💼 [LinkedIn](https://www.linkedin.com/in/evrard-a-784167142/)
 💻 [GitHub](https://github.com/aldebaran93)
 
