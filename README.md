@@ -1,6 +1,6 @@
 # Hello Folks, I am Evrard Amindjou Tsafack 👋  
 
-## 🚀 Embedded Software Development Engineer & Test with strong interests in Deep Learning, Computer Vision & AI. 
+## 🚀 Embedded Software Development Engineer & Test with a strong interest in Deep Learning, Computer Vision & AI. 
 
 🚀 Defining my new path into AI/Deep Learning/Computer Vision/Machine Learning
 ---
