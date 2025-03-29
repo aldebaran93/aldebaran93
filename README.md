@@ -43,6 +43,12 @@
 
 ---
 
+## 🏆 Certifications
+### Deep Learning Specialization (Coursera)    
+**Neural Networks and Deep Learning**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/2LQZSURV8QD2)  
+**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**: [View Certificate](https://coursera.org/share/295077fbc76a8aedabdb953f0443c271)
+
+---
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldebaran93&show_icons=true&theme=dark)  
