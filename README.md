@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 Key Skills  
-- 🚀 Software Development  
+- 🚀 Software Development & Test Automation  
 - 🔍 Signal Processing Techniques 
 - 🎯 Time Serie Prediction
 - 🤖 Machine Learning & Deep Learning  
