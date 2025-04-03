@@ -47,7 +47,7 @@
 ### Deep Learning Specialization (Coursera)    
 **Neural Networks and Deep Learning**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/2LQZSURV8QD2)  
 **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**: [View Certificate](https://coursera.org/share/295077fbc76a8aedabdb953f0443c271)  
-**Structure machine Learning Projects**: [View Certificate](https://www.coursera.org/account/accomplishments/certificate/CMBP3GZQVJRU)  
+**Structure machine Learning Projects**: [View Certificate](https://www.coursera.org/account/accomplishments/verify/CMBP3GZQVJRU)  
 
 
 ---
