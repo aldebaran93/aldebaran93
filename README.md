@@ -53,6 +53,8 @@
 ---
 ## 📊 GitHub Stats  
 
+![Profile views](https://komarev.com/ghpvc/?username=aldebaran93)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldebaran93&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldebaran93&layout=compact&theme=dark)  
